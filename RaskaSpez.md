@@ -15,6 +15,7 @@ ExtraGebäude
 Truppen
     Angreifer
     Verteidiger
+    Katapult
 
 Blumen (Eufloria)-Kram
     Verbesserung
@@ -24,5 +25,38 @@ Attribute
 Gebäude
 	Kaserne
 		Truppenproduktion / s
-	  Grafik
+	  	Grafik
+	  	Ausbau (?)
+	  	Informationsbutton
+	  	Schaltfläche
+	  	
+	Werkstatt
+		Katapultprouktion
+		Einnahme zweier Bauslots
+		Grafik
+		Ausbau (?) -> eher nicht
+		Informationsbutton (?)
+		Schaltfläche
+		
+	Rathaus
+		Verteidigerproduktion
+		In der Mitte der Stadt
+		Verteidigungsausbau, Rathausbonus!
+		Begrenzt auf 1
+		Grafik
+		Ausbau (?) -> eher nicht
+		Informatinsbutton (?)
+		Schaltfläche
+	Turm
+		Verteidigungsbonus
+		An/In der Mauer
+		Mehr Verteidiger?
+		Grafik
+		Ausbau?
+		
+Extragebäude
+	Mauer
+		Verteidigungsbonus
+		Wenn die Mauer fällt 
+	
 	  
