@@ -31,7 +31,7 @@ RaskaSpez
 	  	Schaltfläche
 	  	
 	Werkstatt
-		Katapultprouktion
+		Katapultproduktion
 		Einnahme zweier Bauslots
 		Grafik
 		Ausbau (?) -> eher nicht
@@ -57,6 +57,8 @@ RaskaSpez
 	Extragebäude
 	Mauer
 		Verteidigungsbonus
-		Wenn die Mauer fällt 
+		Wenn die Mauer fällt Grafik
+		Funktion: Wenn Mauer fällt Truppen angreifbar
+		
 	
 	  
