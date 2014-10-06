@@ -18,4 +18,5 @@ Katapulte
     Starker Angriff
     Sehr wenig Verteidigung
     Nur Angriff auf Wälle
-  
+  	
+Elite?
