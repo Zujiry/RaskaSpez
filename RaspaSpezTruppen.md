@@ -1,7 +1,7 @@
 RaskaSpezTruppen
 =========
 
-Verteidiger
+  Verteidiger
     Hohe Verteidigung
     Wenig Angriff
     oder! 
@@ -10,13 +10,13 @@ Verteidiger
   
     Können nicht angreifen
 
-Angreifer
+  Angreifer
     Ausgewogenes Verhältnis Angriff/Verteidigung
     50/50
 
-Katapulte
+  Katapulte
     Starker Angriff
     Sehr wenig Verteidigung
     Nur Angriff auf Wälle
   	
-Elite?
+  Elite?
