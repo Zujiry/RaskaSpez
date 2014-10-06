@@ -2,27 +2,27 @@ RaskaSpez
 =========
 
 
-Was wir alles brauchen
-Gebäude
-    Kaserne
-    Werkstatt
-    Rathaus
-    Turm
+	Was wir alles brauchen
+	Gebäude
+    	Kaserne
+    	Werkstatt
+    	Rathaus
+    	Turm
 
-ExtraGebäude
-    Mauer
-    
-Truppen
-    Angreifer
-    Verteidiger
-    Katapult
+	ExtraGebäude
+	    Mauer
+	    
+	Truppen
+	    Angreifer
+	    Verteidiger
+	    Katapult
+	
+	Blumen (Eufloria)-Kram
+	    Verbesserung
+	    Ausbau
 
-Blumen (Eufloria)-Kram
-    Verbesserung
-    Ausbau
-
-Attribute
-Gebäude
+	Attribute
+	Gebäude
 	Kaserne
 		Truppenproduktion / s
 	  	Grafik
@@ -54,7 +54,7 @@ Gebäude
 		Grafik
 		Ausbau?
 		
-Extragebäude
+	Extragebäude
 	Mauer
 		Verteidigungsbonus
 		Wenn die Mauer fällt 
