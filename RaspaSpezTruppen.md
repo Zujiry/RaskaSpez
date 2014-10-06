@@ -11,12 +11,12 @@ RaskaSpezTruppen
         Können nicht angreifen
 
     Angreifer
-      Ausgewogenes Verhältnis Angriff/Verteidigung
-      50/50
+        Ausgewogenes Verhältnis Angriff/Verteidigung
+        50/50
 
-  Katapulte
-    Starker Angriff
-    Sehr wenig Verteidigung
-    Nur Angriff auf Wälle
+    Katapulte
+        Starker Angriff
+        Sehr wenig Verteidigung
+        Nur Angriff auf Wälle
   	
-  Elite?
+    Elite?
